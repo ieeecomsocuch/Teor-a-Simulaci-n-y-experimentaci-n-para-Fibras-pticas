@@ -10,9 +10,12 @@ Temario
 
 *******
 ## Silabo
-1. ## Conceptos básicos de fibras ópticas.
- 1.1. Características de la fibra óptica en telecomunicaciones.
- 1.2.Principios de guías de onda:
+1. Conceptos básicos de fibras ópticas.
+   1.1. Características de la fibra óptica en telecomunicaciones.
+   1.2. Principios de guías de onda:
+2. Second instruction
+
+
      Descripción geométrica: Ley de Snell
      Propagación de modos: Ecuaciones de Maxwel y Helmhotz
  1.3.Tipos de fibras ópticas convencionales:
