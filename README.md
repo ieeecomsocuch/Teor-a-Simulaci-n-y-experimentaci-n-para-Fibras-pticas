@@ -19,34 +19,34 @@ Temario
 - 1.3.Tipos de fibras ópticas convencionales:
 - [ ] Perfil de índice de refracción.
 - 1.4.Parámetros ópticos:
--        Atenuación
--        Absorción
--        Difusión
+- [ ] Atenuación
+- [ ] Absorción
+- [ ] Difusión
 - 1.5.Tipos de Dispersión:
--     Dispersión intermodal
--     Velocidad de fase y velocidad de grupo
--     Dispersión cromática
--     Dispersión por guía de onda
--     Dispersión por polarización
+- [ ] Dispersión intermodal
+- [ ] Velocidad de fase y velocidad de grupo
+- [ ] Dispersión cromática
+- [ ] Dispersión por guía de onda
+- [ ] Dispersión por polarización
 2. **Tipos de fibras ópticas modernas**
 - 2.1. Fibras Multi-Nucleo. (MCF)
--     Fabricación y arquitectura de uso
--     Características: Inter-core crosstalk e Inter-core skew
--     Tipos
--     Experimentos por su caracterización
+- [ ] Fabricación y arquitectura de uso
+- [ ] Características: Inter-core crosstalk e Inter-core skew
+- [ ] Tipos
+- [ ] Experimentos por su caracterización
 - 2.2. Fibras Cristalinas.
--     Fabricación
--     Principio de funcionamiento: Total reflexión interna y Banda fotónica prohibida
--     Tipos
--     Características
--     Experimentos por su caracterización
+- [ ] Fabricación
+- [ ] Principio de funcionamiento: Total reflexión interna y Banda fotónica prohibida
+- [ ] Tipos
+- [ ] Características
+- [ ] Experimentos por su caracterización
 3. **Sensores de fibra óptica**
 - 3.1. Ventajas
 - 3.2. Tipos y Características
--     Malla de Bragg
--     Interferómetros
--     Reflexiones de difusión
--     Cristales fotónicos
+- [ ] Malla de Bragg
+- [ ] Interferómetros
+- [ ] Reflexiones de difusión
+- [ ] Cristales fotónicos
 4. **Sensores de presión**
 5. **Simulación con OptiSystem**
 - 5.1. Transmisor - Láser Modulado Externo
