@@ -13,14 +13,14 @@ Temario
 1. **Conceptos básicos de fibras ópticas.**
    1.1. Características de la fibra óptica en telecomunicaciones.
    1.2. Principios de guías de onda:
-     Descripción geométrica: Ley de Snell
-     Propagación de modos: Ecuaciones de Maxwel y Helmhotz
+     #### Descripción geométrica: Ley de Snell
+     #### Propagación de modos: Ecuaciones de Maxwel y Helmhotz
  1.3.Tipos de fibras ópticas convencionales:
-     Perfil de índice de refracción.
+     #### Perfil de índice de refracción.
  1.4.Parámetros ópticos:
-     Atenuación
-     Absorción
-     Difusión
+     #### Atenuación
+     #### Absorción
+     #### Difusión
  1.5.Tipos de Dispersión:
      Dispersión intermodal
      Velocidad de fase y velocidad de grupo
