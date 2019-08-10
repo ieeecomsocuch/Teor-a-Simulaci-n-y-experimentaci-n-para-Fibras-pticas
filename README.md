@@ -2,11 +2,9 @@
 <img src="https://www.smartoptics.com/wp-content/uploads/2017/05/A2-optical-fiber.png" width="525"/>
 
 *******
-Temario  
- 1. Conceptos básicos de fibras ópticas
- 2. Tipos de fibras ópticas modernas
- 3. Sensores de fibra óptica
- 4. Simulación con OptiSystem
+Docentes  
+ 1. Mg. Miguel Antonio Chavez Tapia
+ 2. Mg. Jaime A. Rupaylla
 
 *******
 ## Silabo
@@ -58,6 +56,11 @@ Temario
 - 6.2. Mediciones
 - 6.3. Revisión de estándares
 - 6.4. Implementación de Sistema óptico
+
+## Objetivo General
+- Profundizar conocimiento en la teoría necesaria para investigar el área de las fibras ópticas.
+- Captar a los alumnos con aptitudes y entusiasmos por el desarrollo de esta área en país a través de una tesis, jornal y/o papers.
+- Complementar académicamente el conocimiento y experimentación de los alumnos y egresados en nuestra institución
 
 ## Dirigido A
 - Miembros del Capítulo COMSOC.
