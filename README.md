@@ -65,10 +65,16 @@ Temario
 ## Duración
 8 sesiones (miércoles y viernes) | Iniciamos el 14 de agosto 
 
-First Header | Second Header
+Día | Hora
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Miércoles 14 de agosto | Content from cell 2
+Viernes 16 de agosto | Content in the second column
+Miércoles 21 de agosto | Content from cell 2
+Viernes 23 de agosto | Content in the second column
+Miércoles 28 de agosto | Content from cell 2
+Viernes 30 de agosto | Content in the second column
+Miércoles 4 de septiembre | Content from cell 2
+Viernes 6 de septiembre | Content in the second column
 
 ## Bibliografía
 - G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
