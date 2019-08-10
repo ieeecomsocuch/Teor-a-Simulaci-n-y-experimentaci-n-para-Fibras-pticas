@@ -65,6 +65,11 @@ Temario
 ## Duración
 8 sesiones (miércoles y viernes) | Iniciamos el 14 de agosto 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ## Bibliografía
 - G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
 - A. Ghatak & K. Thyagarajan. An Introduction to Fiber Optics. Cambridge: Cambridge University Press, 1998.
