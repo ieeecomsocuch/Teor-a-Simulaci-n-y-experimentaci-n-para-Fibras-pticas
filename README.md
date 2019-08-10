@@ -11,53 +11,52 @@ Temario
 *******
 ## Silabo
 1. Conceptos básicos de fibras ópticas.
-
-1.1. Características de la fibra óptica en telecomunicaciones.
-1.2.Principios de guías de onda:
-Descripción geométrica: Ley de Snell
-Propagación de modos: Ecuaciones de Maxwel y Helmhotz
-1.3.Tipos de fibras ópticas convencionales:
-Perfil de índice de refracción.
-1.4.Parámetros ópticos:
-Atenuación
-Absorción
-Difusión
-1.5.Tipos de Dispersión:
-Dispersión intermodal
-Velocidad de fase y velocidad de grupo
-Dispersión cromática
-Dispersión por guía de onda
-Dispersión por polarización
+ 1.1. Características de la fibra óptica en telecomunicaciones.
+ 1.2.Principios de guías de onda:
+     Descripción geométrica: Ley de Snell
+     Propagación de modos: Ecuaciones de Maxwel y Helmhotz
+ 1.3.Tipos de fibras ópticas convencionales:
+     Perfil de índice de refracción.
+ 1.4.Parámetros ópticos:
+     Atenuación
+     Absorción
+     Difusión
+ 1.5.Tipos de Dispersión:
+     Dispersión intermodal
+     Velocidad de fase y velocidad de grupo
+     Dispersión cromática
+     Dispersión por guía de onda
+     Dispersión por polarización
 2. Tipos de fibras ópticas modernas
-2.1. Fibras Multi-Nucleo. (MCF)
-Fabricación y arquitectura de uso
-Características: Inter-core crosstalk e Inter-core skew
-Tipos
-Experimentos por su caracterización
-2.2. Fibras Cristalinas.
-Fabricación
-Principio de funcionamiento: Total reflexión interna y Banda fotónica prohibida
-Tipos
-Características
-Experimentos por su caracterización
+ 2.1. Fibras Multi-Nucleo. (MCF)
+     Fabricación y arquitectura de uso
+     Características: Inter-core crosstalk e Inter-core skew
+     Tipos
+     Experimentos por su caracterización
+ 2.2. Fibras Cristalinas.
+     Fabricación
+     Principio de funcionamiento: Total reflexión interna y Banda fotónica prohibida
+     Tipos
+     Características
+     Experimentos por su caracterización
 3. Sensores de fibra óptica
-3.1. Ventajas
-3.2. Tipos y Características
-Malla de Bragg
-Interferómetros
-Reflexiones de difusión
-Cristales fotónicos
+ 3.1. Ventajas
+ 3.2. Tipos y Características
+     Malla de Bragg
+     Interferómetros
+     Reflexiones de difusión
+     Cristales fotónicos
 4. Sensores de presión
 5. Simulación con OptiSystem
-5.1. Transmisor - Láser Modulado Externo
-5.2. Subsistemas - Simulación Jerárquica
-5.3. Sistemas ópticos - Diseño WDM
-5.4. Transmisores ópticos
+ 5.1. Transmisor - Láser Modulado Externo
+ 5.2. Subsistemas - Simulación Jerárquica
+ 5.3. Sistemas ópticos - Diseño WDM
+ 5.4. Transmisores ópticos
 6. Experimentación con equipamiento de laboratorio de fibras ópticas
-6.1. Empalmes
-6.2. Mediciones
-6.3. Revisión de estándares
-6.4. Implementación de Sistema óptico
+ 6.1. Empalmes
+ 6.2. Mediciones
+ 6.3. Revisión de estándares
+ 6.4. Implementación de Sistema óptico
 
 ## ¿Qué es Analisis de sentimiento?
 El análisis de sentimientos es una extracción contextual del texto que identifica y extrae información subjetiva en el material de origen, y ayuda a una empresa a comprender el sentimiento social de su marca, producto o servicio mientras supervisa las conversaciones en línea. Sin embargo, el análisis de las transmisiones de los medios sociales generalmente está restringido solo al análisis básico de sentimientos y métricas basadas en conteos.
