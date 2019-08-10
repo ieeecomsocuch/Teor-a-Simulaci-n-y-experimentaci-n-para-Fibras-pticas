@@ -3,10 +3,10 @@
 
 *******
 Tabla de contenidos  
- 1. [Proposito](#Proposito)
- 2. [Integrantes](#Integrantes)
- 3. [¿Qué es Analisis de sentimiento?](#qué-es-analisis-de-sentimiento)
- 4. [Lenguajes y librerias usadas](#lenguajes-y-librerias-usadas)
+ 1. [Conceptos básicos de fibras ópticas]
+ 2. [Tipos de fibras ópticas modernas]
+ 3. [Sensores de fibra óptica]
+ 4. [Simulación con OptiSystem]
 
 *******
 ## Proposito
@@ -32,8 +32,8 @@ El grupo esta conformado por 7 personas de las cuales 5 somos los que terminamos
 -[Donny]
 
 
-## Lenguajes y librerias usadas
-- [Pythom](https://www.learnpython.org)
+## Bibliografía
+- [- G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.]
 - [JavaScript](https://www.learn-js.org/)
 - [JSON](https://pythonise.com/feed/flask/working-with-json-in-flask)
 - [Mysql](https://www.quora.com/How-do-I-start-learning-MySQL)
