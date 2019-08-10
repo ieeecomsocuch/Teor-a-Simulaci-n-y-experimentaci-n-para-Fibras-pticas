@@ -58,8 +58,12 @@ Temario
  6.3. Revisión de estándares
  6.4. Implementación de Sistema óptico
 
-## ¿Qué es Analisis de sentimiento?
-El análisis de sentimientos es una extracción contextual del texto que identifica y extrae información subjetiva en el material de origen, y ayuda a una empresa a comprender el sentimiento social de su marca, producto o servicio mientras supervisa las conversaciones en línea. Sin embargo, el análisis de las transmisiones de los medios sociales generalmente está restringido solo al análisis básico de sentimientos y métricas basadas en conteos.
+## Dirigido A
+- Miembros del Capítulo COMSOC.
+- Alumnos del Semestre 4 en adelante de la carrera Ing. Electrónica y público en general.
+
+## Duración
+8 sesiones (miércoles y viernes) | Iniciamos el 14 de agosto 
 
 ## Bibliografía
 - G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
