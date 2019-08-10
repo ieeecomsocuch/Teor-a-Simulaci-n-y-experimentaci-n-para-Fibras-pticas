@@ -1,5 +1,5 @@
-# Proyecto semanal sobre Analisis de Sentimientos
-<img src="https://miro.medium.com/max/722/0*ga5rNPmVYBsCm-lz." width="525"/>
+# Curso: Capacitación en Teoría, Simulación y experimentación para Fibras Ópticas
+<img src="https://www.smartoptics.com/wp-content/uploads/2017/05/A2-optical-fiber.png" width="525"/>
 
 *******
 Tabla de contenidos  
