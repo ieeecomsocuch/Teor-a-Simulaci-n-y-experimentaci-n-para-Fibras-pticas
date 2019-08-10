@@ -15,25 +15,8 @@ Este proyecto esta enfocado a saber la satisfaccion de un cliente (tambien llama
 ## ¿Qué es Analisis de sentimiento?
 El análisis de sentimientos es una extracción contextual del texto que identifica y extrae información subjetiva en el material de origen, y ayuda a una empresa a comprender el sentimiento social de su marca, producto o servicio mientras supervisa las conversaciones en línea. Sin embargo, el análisis de las transmisiones de los medios sociales generalmente está restringido solo al análisis básico de sentimientos y métricas basadas en conteos.
 
-
-## Integrantes
-El grupo esta conformado por 7 personas de las cuales 5 somos los que terminamos el proyecto.
-
--[Juan]
-
--[Alvaro]
-
--[Christian]
-
--[Roger]
-
--[Jean]
-
--[Donny]
-
-
 ## Bibliografía
-- [- G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.]
+- G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
 - [JavaScript](https://www.learn-js.org/)
 - [JSON](https://pythonise.com/feed/flask/working-with-json-in-flask)
 - [Mysql](https://www.quora.com/How-do-I-start-learning-MySQL)
