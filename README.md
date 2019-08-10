@@ -10,7 +10,7 @@ Temario
 
 *******
 ## Silabo
-1. Conceptos básicos de fibras ópticas.
+1. ## Conceptos básicos de fibras ópticas.
  1.1. Características de la fibra óptica en telecomunicaciones.
  1.2.Principios de guías de onda:
      Descripción geométrica: Ley de Snell
@@ -27,7 +27,7 @@ Temario
      Dispersión cromática
      Dispersión por guía de onda
      Dispersión por polarización
-2. Tipos de fibras ópticas modernas
+2. ## Tipos de fibras ópticas modernas
  2.1. Fibras Multi-Nucleo. (MCF)
      Fabricación y arquitectura de uso
      Características: Inter-core crosstalk e Inter-core skew
@@ -39,20 +39,20 @@ Temario
      Tipos
      Características
      Experimentos por su caracterización
-3. Sensores de fibra óptica
+3. ## Sensores de fibra óptica
  3.1. Ventajas
  3.2. Tipos y Características
      Malla de Bragg
      Interferómetros
      Reflexiones de difusión
      Cristales fotónicos
-4. Sensores de presión
-5. Simulación con OptiSystem
+4. ## Sensores de presión
+5. ## Simulación con OptiSystem
  5.1. Transmisor - Láser Modulado Externo
  5.2. Subsistemas - Simulación Jerárquica
  5.3. Sistemas ópticos - Diseño WDM
  5.4. Transmisores ópticos
-6. Experimentación con equipamiento de laboratorio de fibras ópticas
+6. ## Experimentación con equipamiento de laboratorio de fibras ópticas
  6.1. Empalmes
  6.2. Mediciones
  6.3. Revisión de estándares
@@ -67,14 +67,14 @@ Temario
 
 Día | Hora
 ------------ | -------------
-Miércoles 14 de agosto | Content from cell 2
-Viernes 16 de agosto | Content in the second column
-Miércoles 21 de agosto | Content from cell 2
-Viernes 23 de agosto | Content in the second column
-Miércoles 28 de agosto | Content from cell 2
-Viernes 30 de agosto | Content in the second column
-Miércoles 4 de septiembre | Content from cell 2
-Viernes 6 de septiembre | Content in the second column
+Miércoles 14 de agosto | 5:30p.m. a 7:30p.m
+Viernes 16 de agosto | 5:30p.m. a 7:30p.m
+Miércoles 21 de agosto | 5:30p.m. a 7:30p.m
+Viernes 23 de agosto | 5:30p.m. a 7:30p.m
+Miércoles 28 de agosto | 5:30p.m. a 7:30p.m
+Viernes 30 de agosto | 5:30p.m. a 7:30p.m
+Miércoles 4 de septiembre | 5:30p.m. a 7:30p.m
+Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 
 ## Bibliografía
 - G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
