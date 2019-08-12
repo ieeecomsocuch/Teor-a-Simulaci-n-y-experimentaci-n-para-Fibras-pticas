@@ -1,5 +1,5 @@
 # Curso: Capacitación en Teoría, Simulación y experimentación para Fibras Ópticas
-<img src="https://www.smartoptics.com/wp-content/uploads/2017/05/A2-optical-fiber.png" width="525"/>
+<img src="https://pbs.twimg.com/media/EBygpgrXUAIeUuv.jpg" width="525"/>
 
 *******
 Docentes  
@@ -8,11 +8,11 @@ Docentes
 
 *******
 ## Silabo
+<img src="https://www.smartoptics.com/wp-content/uploads/2017/05/A2-optical-fiber.png" width="525"/>
 1. **Conceptos básicos de fibras ópticas.**
 -   1.1. Características de la fibra óptica en telecomunicaciones.
 -   1.2. Principios de guías de onda:
 - [ ] Descripción geométrica: Ley de Snell
-- [ ] Propagación de modos: Ecuaciones de Maxwel y Helmhotz
 - [ ] Propagación de modos: Ecuaciones de Maxwel y Helmhotz
 - 1.3.Tipos de fibras ópticas convencionales:
 - [ ] Perfil de índice de refracción.
