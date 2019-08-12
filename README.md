@@ -89,5 +89,5 @@ Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 - Rajan, G., Optical Fiber Sensors: Advanced Techniques and Applications, CRC Press, 2015.
 - [Guías de OptiSystem](https://optiwave.com/category/optisystem-manuals/optisystem-tutorials/) 
 
-## Bibliografía
+## Organizadores
 Mayor Informacion [Link](https://www.instagram.com/ieeecomsocuch/)
