@@ -8,7 +8,7 @@ Docentes
 
 *******
 ## Silabo
-<img src="https://www.smartoptics.com/wp-content/uploads/2017/05/A2-optical-fiber.png" width="525"/>
+
 1. **Conceptos básicos de fibras ópticas.**
 -   1.1. Características de la fibra óptica en telecomunicaciones.
 -   1.2. Principios de guías de onda:
@@ -88,3 +88,6 @@ Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 - Skorobogatiy, M., & Yang, J. (2008). Fundamentals of Photonic Crystal Guiding. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511575228.
 - Rajan, G., Optical Fiber Sensors: Advanced Techniques and Applications, CRC Press, 2015.
 - [Guías de OptiSystem](https://optiwave.com/category/optisystem-manuals/optisystem-tutorials/) 
+
+## Bibliografía
+Mayor Informacion [Link](https://www.instagram.com/ieeecomsocuch/)
