@@ -91,3 +91,6 @@ Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 
 ## Organizadores
 Mayor Informacion [Link](https://www.instagram.com/ieeecomsocuch/)
+
+## Obten las sesion
+- [Sesion 1](https://www.facebook.com/download/preview/2371765263085911)
