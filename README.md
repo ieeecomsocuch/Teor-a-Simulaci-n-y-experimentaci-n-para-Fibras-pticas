@@ -66,7 +66,7 @@ Docentes
 - Miembros del Capítulo COMSOC.
 - Alumnos del Semestre 4 en adelante de la carrera Ing. Electrónica y público en general.
 
-## Duración
+## Duración y Lugar
 8 sesiones (miércoles y viernes) | Iniciamos el 14 de agosto 
 
 Día | Hora | Aula
@@ -92,6 +92,6 @@ Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 ## Mayor Informacón
 Dudas y consultas [Link](https://www.instagram.com/ieeecomsocuch/)
 
-## Obten las sesion
+## Obten las sesiones
 - [Sesion 1](https://www.facebook.com/download/preview/2371765263085911)
 - [Sesion 2](https://www.facebook.com/download/preview/359035851666098)
