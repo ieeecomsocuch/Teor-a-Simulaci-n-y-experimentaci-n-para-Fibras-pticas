@@ -72,13 +72,13 @@ Docentes
 Día | Hora | Aula
 ------------ | ------------- | -------------
 Miércoles 14 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
-Viernes 16 de agosto | 5:30p.m. a 7:30p.m | 701 pabellón b
-Miércoles 21 de agosto | 5:30p.m. a 7:30p.m
+Viernes 16 de agosto | 5:30p.m. a 7:30p.m | 601 pabellón A
+Miércoles 21 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
 Viernes 23 de agosto | 5:30p.m. a 7:30p.m
-Miércoles 28 de agosto | 5:30p.m. a 7:30p.m
+Miércoles 28 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
 Viernes 30 de agosto | 5:30p.m. a 7:30p.m
 Miércoles 4 de septiembre | 5:30p.m. a 7:30p.m
-Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
+Viernes 6 de septiembre | 5:30p.m. a 7:30p.m | 26 pabellon C
 
 ## Bibliografía
 - G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
