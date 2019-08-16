@@ -69,10 +69,10 @@ Docentes
 ## Duración
 8 sesiones (miércoles y viernes) | Iniciamos el 14 de agosto 
 
-Día | Hora
------------- | -------------
-Miércoles 14 de agosto | 5:30p.m. a 7:30p.m
-Viernes 16 de agosto | 5:30p.m. a 7:30p.m
+Día | Hora | Aula
+------------ | ------------- | -------------
+Miércoles 14 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
+Viernes 16 de agosto | 5:30p.m. a 7:30p.m | 701 pabellón b
 Miércoles 21 de agosto | 5:30p.m. a 7:30p.m
 Viernes 23 de agosto | 5:30p.m. a 7:30p.m
 Miércoles 28 de agosto | 5:30p.m. a 7:30p.m
@@ -89,7 +89,7 @@ Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 - Rajan, G., Optical Fiber Sensors: Advanced Techniques and Applications, CRC Press, 2015.
 - [Guías de OptiSystem](https://optiwave.com/category/optisystem-manuals/optisystem-tutorials/) 
 
-## Mayor Informacion
+## Mayor Informacón
 Dudas y consultas [Link](https://www.instagram.com/ieeecomsocuch/)
 
 ## Obten las sesion
