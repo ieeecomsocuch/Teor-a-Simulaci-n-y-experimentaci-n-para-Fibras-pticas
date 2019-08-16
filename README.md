@@ -93,5 +93,9 @@ Viernes 6 de septiembre | 5:30p.m. a 7:30p.m
 Dudas y consultas [Link](https://www.instagram.com/ieeecomsocuch/)
 
 ## Obten las sesiones
-- [Sesion 1](https://www.facebook.com/download/preview/2371765263085911)
-- [Sesion 2](https://www.facebook.com/download/preview/359035851666098)
+- [Sesion 1](https://drive.google.com/open?id=1sAOHzkZFsHR4k-b_uB7uSzKcF6jT2ECi)
+- [Sesion 2](https://drive.google.com/open?id=1y4FufbMwZGYk-wG3kkIItuPA_KYB7en-)
+- [Sesion 3]
+- [Sesion 4]
+- [Sesion 5]
+- [Sesion 6]
