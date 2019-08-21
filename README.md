@@ -95,7 +95,7 @@ Dudas y consultas [Link](https://www.instagram.com/ieeecomsocuch/)
 ## Obten las sesiones
 - [Sesion 1](https://drive.google.com/open?id=1sAOHzkZFsHR4k-b_uB7uSzKcF6jT2ECi)
 - [Sesion 2](https://drive.google.com/open?id=1y4FufbMwZGYk-wG3kkIItuPA_KYB7en-)
-- [Sesion 3]
+- [Sesion 3](https://drive.google.com/file/d/1XtI_Q-VC9a-r8e-Y3lJggFNJhTpZYOtF/view?usp=sharing)
 - [Sesion 4]
 - [Sesion 5]
 - [Sesion 6]
