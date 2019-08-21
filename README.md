@@ -71,13 +71,13 @@ Docentes
 
 Día | Hora | Aula
 ------------ | ------------- | -------------
-Miércoles 14 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
+Miércoles 14 de agosto | 5:30p.m. a 7:30p.m | 403 pabellon A
 Viernes 16 de agosto | 5:30p.m. a 7:30p.m | 601 pabellón A
 Miércoles 21 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
-Viernes 23 de agosto | 5:30p.m. a 7:30p.m
-Miércoles 28 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A
-Viernes 30 de agosto | 5:30p.m. a 7:30p.m
-Miércoles 4 de septiembre | 5:30p.m. a 7:30p.m
+Viernes 23 de agosto | 5:30p.m. a 7:30p.m | Laboratorio 403 pabellon B
+Miércoles 28 de agosto | 5:30p.m. a 7:30p.m | Laboratorio 405 pabellon B
+Viernes 30 de agosto | 5:30p.m. a 7:30p.m | [Espacio Privado](https://www.instagram.com/ieeecomsocuch/)
+Miércoles 4 de septiembre | 5:30p.m. a 7:30p.m | Aula de docente Rupaylla
 Viernes 6 de septiembre | 5:30p.m. a 7:30p.m | 26 pabellon C
 
 ## Bibliografía
