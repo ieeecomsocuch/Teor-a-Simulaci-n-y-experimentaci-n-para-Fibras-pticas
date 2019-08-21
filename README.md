@@ -69,16 +69,16 @@ Docentes
 ## Duración y Lugar
 8 sesiones (miércoles y viernes) | Iniciamos el 14 de agosto 
 
-Día | Hora | Aula | Docente
------------- | ------------- | ------------- | -------------
-Miércoles 14 de agosto | 5:30p.m. a 7:30p.m | 403 pabellon A | Mg. Miguel
-Viernes 16 de agosto | 5:30p.m. a 7:30p.m | 601 pabellón A | Mg. Miguel
-Miércoles 21 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A | Mg. Miguel
-Viernes 23 de agosto | 5:30p.m. a 7:30p.m | Laboratorio 403 pabellon B | Mg. Miguel
-Miércoles 28 de agosto | 5:30p.m. a 7:30p.m | Laboratorio 405 pabellon B | Mg.Rupaylla
-Viernes 30 de agosto | 5:30p.m. a 7:30p.m | [Espacio Privado](https://www.instagram.com/ieeecomsocuch/) | Mg. Miguel
-Miércoles 4 de septiembre | 5:30p.m. a 7:30p.m | Aula de docente Rupaylla | Mg.Rupaylla
-Viernes 6 de septiembre | 5:30p.m. a 7:30p.m | 26 pabellon C | Mg. Miguel
+Día | Hora | Aula | Docente | Teoria/Practica
+------------ | ------------- | ------------- | ------------- | -------------
+Miércoles 14 de agosto | 5:30p.m. a 7:30p.m | 403 pabellon A | Mg. Miguel | Teoría
+Viernes 16 de agosto | 5:30p.m. a 7:30p.m | 601 pabellón A | Mg. Miguel | Teoría
+Miércoles 21 de agosto | 5:30p.m. a 7:30p.m | 505 pabellon A | Mg. Miguel | Teoría
+Viernes 23 de agosto | 5:30p.m. a 7:30p.m | Laboratorio 403 pabellon B | Mg. Miguel | Teoría
+Miércoles 28 de agosto | 5:30p.m. a 7:30p.m | Laboratorio 405 pabellon B | Mg.Rupaylla | Práctica
+Viernes 30 de agosto | 5:30p.m. a 7:30p.m | [Espacio Privado](https://www.instagram.com/ieeecomsocuch/) | Mg. Miguel | Teoría
+Miércoles 4 de septiembre | 5:30p.m. a 7:30p.m | Aula de docente Rupaylla | Mg.Rupaylla | Práctica
+Viernes 6 de septiembre | 5:30p.m. a 7:30p.m | 26 pabellon C | Mg. Miguel | eoría
 
 ## Bibliografía
 - G. P. Agrawal, Fiber-Optic Communication Systems: Fourth Edition. 2011.
